@@ -1,0 +1,27 @@
+#first{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+    text-decoration: coral;
+}
+
+#second{
+    text-align: center;
+    padding: 40px;
+    font-size: 30px;
+    font-style: italic;
+    color: rgb(255, 0, 0);
+}
+
+.choice {
+    padding: 30px;
+    text-align: center;
+    font-size: 30px;
+}
+.choice select{
+    font-size: 45px;
+}
+
+#btn{
+    font-size: 20px;
+}

@@ -1,0 +1,51 @@
+body{
+    background-size: cover; /*---TO COVER THE WHOLE PAGE---- */
+}
+
+#timer{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    height: 60px;
+    width: 60px;
+    background-color: azure;
+    margin-top: 2%;
+    border: 3px solid gold;
+    text-align: center;
+    font-size: 50px;
+}
+
+#questions{
+    text-align: center;
+    margin-top: 15%;
+    font-size: 30px;
+    color: azure;
+}
+
+.main_options{
+    text-align: center;
+    margin-top: 10%;
+}
+
+.option{
+    color: white;
+    font-size: large;
+    background-color: black;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 35px;
+    margin-right: 25px;
+}
+.option:hover{
+    background-color: white;
+    color: black;
+    border: 2px solid red;
+}
+
+.text_option{
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
